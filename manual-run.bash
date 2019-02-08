@@ -22,4 +22,8 @@ tis-interpreter\
 
   $cmd
 
+  echo "-------------------------------------"
+
+  cat test-results-$N.json
+
 done
